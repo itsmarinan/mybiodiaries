@@ -3,6 +3,6 @@ layout: home
 title: 'Eleventy Duo'
 ---
 
-# Hello World
+# Marina Nikolic
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Maja nikolic je najsladja minijaturna zivotinjica na svetu. Voli je najvise njen Dadonis berbonis itd.
