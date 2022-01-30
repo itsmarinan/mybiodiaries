@@ -1,6 +1,6 @@
 {
   "name": "My Biodiaries",
-  "description": "My Biodiaries is a minimal and beautiful Eleventy theme for personal blogs.",
+  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
     "name": "Author Name",
@@ -30,12 +30,12 @@
       "text": "Twitter",
       "url": "https://twitter.com/Max_Nikolic",
       "external": true
-    }
+    },
     {
       "text": "LinkedIn",
       "url": "https://www.linkedin.com/in/edu-mar-nik/",
       "external": true
-    },
+    }
   ],
   "footerLinks": [
     {
