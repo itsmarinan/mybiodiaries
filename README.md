@@ -1,4 +1,4 @@
-# My Biodiaries
+# Eleventy Duo
 
 Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 
@@ -57,7 +57,7 @@ Sample frontmatter for homepage.
 ```
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'My Biodiaries'
 ---
 
 Contents
