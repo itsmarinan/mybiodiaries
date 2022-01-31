@@ -2,7 +2,7 @@
 title: About me
 layout: about.njk
 name: Marina Nikolic
-image: 'itsme.webp'
+image: '/images/itsme.webp'
 ---
 
 I am a 23-year-old master student in Cancer Biology in London, a passionate reader (only when on tube and trains, therefore, a lot of time), a social media enthusiast and, of course, the reason that this blog is actually existing - I am a science lover! 
