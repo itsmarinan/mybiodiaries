@@ -1,5 +1,5 @@
 ---
-title: "Why are we still excited about cancer vaccines? #SciTalks\U0001F9EB"
+title: "#SciTalks\U0001F9EB on Why are we still excited about cancer vaccines?"
 date: 2020-12-28T00:00:00Z
 tags:
 - demo-content
