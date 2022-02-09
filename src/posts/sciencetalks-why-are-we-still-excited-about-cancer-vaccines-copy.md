@@ -1,6 +1,7 @@
 ---
-title: "#SciTalks\U0001F9EB on Why are we still excited about cancer vaccines?"
-date: 2020-12-28T00:00:00Z
+title: "#PersonalTalks\U0001F5E3 on How I decided which European universities to apply
+  to for my masters?"
+date: 2022-02-19T00:00:00Z
 tags:
 - demo-content
 - media
