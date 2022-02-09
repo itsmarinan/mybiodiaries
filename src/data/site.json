@@ -1,5 +1,5 @@
 {
-  "name": "My Biodiaries",
+  "name": "Marina Nikolic",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
@@ -21,11 +21,6 @@
     }
   ],
   "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/mybiodiaries",
-      "external": true
-    },
     {
       "text": "Twitter",
       "url": "https://twitter.com/Max_Nikolic",
