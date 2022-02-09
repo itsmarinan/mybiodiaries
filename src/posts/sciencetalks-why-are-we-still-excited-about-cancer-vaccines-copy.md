@@ -1,7 +1,7 @@
 ---
 title: "#PersonalTalks: How I decided which European universities to apply to for
   my masters?"
-date: 2020-12-28
+date: 2022-02-19T00:00:00Z
 tags:
 - demo-content
 - media
