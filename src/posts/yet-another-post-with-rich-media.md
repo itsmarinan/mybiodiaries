@@ -14,7 +14,7 @@ Out of all ways of fighting diseases that exist out there, vaccines specifically
 
 In this article, I would like to discuss one particular type of vaccine - the cancer vaccine. And, let’s put a big ‘’the’’ there as this one has been quite a torment. I will try to break down why that is so and how we still have faith in it regardless of quite a pile of discouraging research.
 
-**How do cancer vaccines work?**
+### **How do cancer vaccines work?**
 
 As we all know, vaccines serve the eternal human fight against diseases and they do so by training the immune system to fight pathogens. When it comes to anti-cancer vaccines, their development started in the early 1990s, when the tumor-associated antigens were identified. Those antigens are expressed on cancer cells and immune responses to those antigens have been reported. Therefore, cancer vaccines commonly involve delivering of tumor antigens whose aim is to stimulate the patient's adaptive immune response (T cells and B cells) against specific tumor antigens expressed on cancer cells.
 
@@ -26,7 +26,7 @@ For example, oncogenic viral antigens have already been utilized for the develop
 
 Let’s now touch on the idea of using the other type of TSAs, the neoantigens, as attractive antigens for cancer vaccines. They are, as viral oncoproteins, specific only to tumor cells. But, they are even more specific - although viral oncoproteins are expressed in specific tumor types, this expression occurs in many patients. On the other hand, most of the neoantigens are unique to individual patients’ tumors (also referred to as private neoantigens). Therefore, there lies a potential for developing personalized therapies which would be tailored to each patient individually.
 
-**Many options, so why are we stuck?**
+### **Many options, so why are we stuck?**
 
 Before diving into why we still haven’t produced a cancer vaccine, let’s see what should be the goals when designing one. Most obvious one is - we want the tumor gone. We want to make sure that none of it is left after the treatment. But, we cannot stop at only tumor eradication - tumors do come back, as we are all aware, so we need to develop antitumour memory in the organism. And lastly, we want to minimize adverse reactions due to treatment.
 
@@ -40,7 +40,7 @@ Further down the line, there are other very compelling options for cancer vaccin
 
 The majority of phase 3 clinical trials did not confirm the encouraging preliminary results in early clinical trials. One of the explanations for why the cancer vaccines have failed is that they have been mostly tested on patients with metastatic cancers. In such a state, the immune system has already been severely suppressed by tumors. Following that, scientists came up with an idea to combine cancer vaccines with drugs that can reverse immunosuppression, such as chemotherapy, radiotherapy, and anti-angiogenic molecules, and they demonstrated some success in doing so. Although there lies potential, much work has to be done to decide which combinations are most prominent.
 
-**What does the future hold for us?**
+### **What does the future hold for us?**
 
 What we want from cancer vaccines is that they are safe, specific, and have a long-lasting response due to the stimulation of immune memory. We might have not been prosperous when it comes to developing them yet, but there is a lot of evidence out there supporting the notion that this field offers hope.
 
