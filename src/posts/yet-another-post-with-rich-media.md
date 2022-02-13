@@ -1,5 +1,5 @@
 ---
-title: "#SciTalks on Why are we still excited about cancer vaccines?"
+title: "#SciTalks \U0001F9EC on Why are we still excited about cancer vaccines?"
 date: 2022-02-13T20:20:00Z
 tags:
 - cancer therapy
