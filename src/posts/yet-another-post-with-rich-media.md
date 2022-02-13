@@ -49,3 +49,9 @@ First of all, our understanding of how cancer cells evade the immune system has 
 As it always happens with science, more doors get open than they get closed with every piece of research that has been done. When it comes to designing cancer vaccines, although scientists learned a lot from previous failed attempts, there are many unanswered questions and challenges. For example, how could we deliver such vaccines? Many options exist out there - nanoparticles, gene guns, microneedle arrays, etc. The delivery of the vaccine is a highly important determinant of its success so we have to understand the best ways to do so.
 
 It is evident that there are a lot of challenges out there that will require a lot of time, effort, and resources, but the research regarding cancer vaccines is blooming! It remains for us to follow this exciting field and strive for the future where we will have cancer vaccines available as any other.
+
+### References
+
+1. Hollingsworth, R.E. and Jansen, K., 2019. Turning the corner on therapeutic cancer vaccines. _npj Vaccines_, _4_(1), pp.1-10.
+2. Tran, T., Blanc, C., Granier, C., Saldmann, A., Tanchot, C. and Tartour, E., 2019, January. Therapeutic cancer vaccine: building the future from lessons of the past. In _Seminars in Immunopathology_ (Vol. 41, No. 1, pp. 69-85). Springer Berlin Heidelberg.
+3. Saxena, M., van der Burg, S.H., Melief, C.J. and Bhardwaj, N., 2021. Therapeutic cancer vaccines. _Nature Reviews Cancer_, _21_(6), pp.360-378.
