@@ -52,6 +52,6 @@ It is evident that there are a lot of challenges out there that will require a l
 
 ### References
 
-1. Hollingsworth, R.E. and Jansen, K., 2019. Turning the corner on therapeutic cancer vaccines. _npj Vaccines_, _4_(1), pp.1-10.
-2. Tran, T., Blanc, C., Granier, C., Saldmann, A., Tanchot, C. and Tartour, E., 2019, January. Therapeutic cancer vaccine: building the future from lessons of the past. In _Seminars in Immunopathology_ (Vol. 41, No. 1, pp. 69-85). Springer Berlin Heidelberg.
-3. Saxena, M., van der Burg, S.H., Melief, C.J. and Bhardwaj, N., 2021. Therapeutic cancer vaccines. _Nature Reviews Cancer_, _21_(6), pp.360-378.
+1. Hollingsworth, R.E. and Jansen, K., 2019. Turning the corner on therapeutic cancer vaccines. _npj Vaccines_, _4_(1), pp.1-10. ([https://www.nature.com/articles/s41541-019-0103-y](https://www.nature.com/articles/s41541-019-0103-y "https://www.nature.com/articles/s41541-019-0103-y"))
+2. Tran, T., Blanc, C., Granier, C., Saldmann, A., Tanchot, C. and Tartour, E., 2019, January. Therapeutic cancer vaccine: building the future from lessons of the past. In _Seminars in Immunopathology_ (Vol. 41, No. 1, pp. 69-85). Springer Berlin Heidelberg. ([https://pubmed.ncbi.nlm.nih.gov/29978248/](https://pubmed.ncbi.nlm.nih.gov/29978248/ "https://pubmed.ncbi.nlm.nih.gov/29978248/"))
+3. Saxena, M., van der Burg, S.H., Melief, C.J. and Bhardwaj, N., 2021. Therapeutic cancer vaccines. _Nature Reviews Cancer_, _21_(6), pp.360-378. ([https://www.nature.com/articles/s41568-021-00346-0](https://www.nature.com/articles/s41568-021-00346-0 "https://www.nature.com/articles/s41568-021-00346-0"))
