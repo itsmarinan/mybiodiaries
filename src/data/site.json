@@ -7,7 +7,7 @@
     "email": "edu.mar.nik@gmail.com",
     "twitterHandle": "Max_Nikolic"
   },
-  "defaultSocialImage": "/images/preview.png",
+  "defaultSocialImage": "preview.png",
   "headerLinks": [
     {
       "text": "Blog",
