@@ -45,8 +45,8 @@
       {% set socialImage = site.defaultSocialImage %}
     {% endif %}
     {% if socialImage %}
-      <meta property="og:image" content="https://mybiodiaries.com/images/preview.png"/>
-      <meta name="twitter:image" content="https://mybiodiaries.com/images/preview.png"/>
+      <meta property="og:image" content="https://mybiodiaries.com/images/{{ socialImage }}"/>
+      <meta name="twitter:image" content="https://mybiodiaries.com/images/{{ socialImage }}"/>
     {% endif %}
 
     {# Add mermaid -- start #}
