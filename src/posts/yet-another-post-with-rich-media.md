@@ -1,6 +1,6 @@
 ---
 title: "#SciTalks \U0001F9EA on Why are we still excited about cancer vaccines?"
-date: 2022-02-14T20:20:00Z
+date: 2022-02-14T20:20:00.000+00:00
 tags:
 - cancer therapy
 - cancer vaccine
@@ -8,6 +8,7 @@ decription: The last person we talked to said this would be ready action item, a
   what do you feel you would bring to the table if you were hired for this position
   bells and whistles.
 permalink: posts/{{ title | slug }}/index.html
+socialImage: abc.png
 
 ---
 Out of all ways of fighting diseases that exist out there, vaccines specifically carry weight. They are available for only around 25 diseases, compared to, for example, 20,000 prescription drugs approved by the FDA. When we take into account the time it usually takes for vaccine development and that for some infamous diseases, like AIDS or hepatitis C, we still haven’t created them after all this time, it becomes clear that the only right way of talking about vaccines and vaccine researchers is with the utmost respect.
