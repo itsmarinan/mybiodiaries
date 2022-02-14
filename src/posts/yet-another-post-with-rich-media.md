@@ -1,6 +1,6 @@
 ---
 title: "#SciTalks \U0001F9EA on Why are we still excited about cancer vaccines?"
-date: 2022-02-13T20:20:00Z
+date: 2022-02-13T20:20:00.000+00:00
 tags:
 - cancer therapy
 - cancer vaccine
@@ -10,7 +10,7 @@ decription: The last person we talked to said this would be ready action item, a
 permalink: posts/{{ title | slug }}/index.html
 
 ---
-Out of all ways of fighting diseases that exist out there, vaccines specifically carry weight. There are only around 25 of them available, compared to, for example, 20,000 prescription drugs approved by the FDA. When we take into account the time it usually takes for vaccine development and that for some infamous diseases, like AIDS or hepatitis C, we still haven’t created them after all this time, it becomes clear that the only right way of talking about vaccines and vaccine researchers is with the utmost respect.
+Out of all ways of fighting diseases that exist out there, vaccines specifically carry weight. They are available for only around 25 diseases, compared to, for example, 20,000 prescription drugs approved by the FDA. When we take into account the time it usually takes for vaccine development and that for some infamous diseases, like AIDS or hepatitis C, we still haven’t created them after all this time, it becomes clear that the only right way of talking about vaccines and vaccine researchers is with the utmost respect.
 
 In this article, I would like to discuss one particular type of vaccine - the cancer vaccine. And, let’s put a big ‘’the’’ there as this one has been quite a torment. I will try to break down why that is so and how we still have faith in it in spite of quite a pile of discouraging research.
 
@@ -28,7 +28,7 @@ When we talk about antigens as targets for tumor vaccines, we categorize them in
 
 ### **TAAs**
 
-As their names suggest, the first group of antigens, although expressed on tumors, is also being present on normal, healthy cells. In this group belong, for example, PSA, which is a prostate-specific antigen produced in both normal and malignant prostate gland cells, and HER2, whose overexpression has been linked with the development and progression of breast cancer. 
+As their names suggest, the first group of antigens, although expressed on tumors, is also being present on normal, healthy cells. In this group belong, for example, PSA, which is a prostate-specific antigen produced in both normal and malignant prostate gland cells, and HER2, whose overexpression has been linked with the development and progression of breast cancer.
 
 ### **TSAs**
 
