@@ -3,11 +3,11 @@
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Marina Nikolic",
+    "email": "edu.mar.nik@gmail.com",
+    "twitterHandle": "Max_Nikolic"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/preview.png",
   "headerLinks": [
     {
       "text": "Blog",
