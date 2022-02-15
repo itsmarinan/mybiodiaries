@@ -35,11 +35,7 @@ As their names suggest, the first group of antigens, although expressed on tumor
 
 On the other hand, the TSA group comprises antigens expressed by oncoviruses and neoantigens that are encoded by cancer mutations. As their name suggests, they are actually tumor-specific and might hold more promise for cancer vaccine development.
 
-### **Viral antigens**
-
 For example, oncogenic viral antigens have already been utilized for the development of the HBV (hepatitis B virus) vaccine which serves to prevent HBV infection. This vaccine has been proven to be successful and that is truly an important discovery, as chronic HBV is the major cause of hepatocellular carcinoma (HCC) or liver cancer. Besides the HBV vaccine, scientists have been successful with developing the HPV vaccine against human papillomavirus which is a major cause of cervical cancer.
-
-### **Neoantigens**
 
 Let’s now touch on the idea of using the other type of TSAs, the neoantigens, as attractive antigens for cancer vaccines. They are, as viral oncoproteins, specific only to tumor cells. But, they are even more specific - although viral oncoproteins are expressed in specific tumor types, this expression occurs in many patients. On the other hand, most of the neoantigens are unique to individual patients’ tumors (also referred to as private neoantigens). Therefore, there lies a potential for developing personalized therapies that would be tailored to each patient individually.
 
