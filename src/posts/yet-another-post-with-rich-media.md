@@ -19,7 +19,7 @@ In this article, I would like to discuss one particular type of vaccine - the ca
 
 As we all know, vaccines serve the eternal human fight against diseases and they do so by training the immune system to fight pathogens. When it comes to anti-cancer vaccines, their development started in the early 1990s, when the tumor-associated antigens were identified. Those antigens are expressed on cancer cells and immune responses to those antigens have been reported. Therefore, cancer vaccines commonly involve delivering tumor antigens whose aim is to stimulate the patient's adaptive immune response (T cells and B cells) against specific tumor antigens expressed on cancer cells.
 
-### **Cancer antigens - essential, but a nightmare**
+### **Cancer antigens** — **essential, but a nightmare as well**
 
 In an ideal setting, those targeted antigens would only be expressed on cancer cells and be present on every single one of them. They would also be essential for the survival of cancer cells, as well as possess the ability to provoke a significant immune response. You don’t need to be an expert in life sciences to understand that this is A LOT of conditions. Of course, antigens that fulfill all of that criteria are practically non-existent.
 
@@ -71,7 +71,7 @@ The majority of phase 3 clinical trials did not confirm the encouraging prelimin
 
 What we want from cancer vaccines is that they are safe, specific, and have a long-lasting response due to the stimulation of immune memory. We might have not been prosperous when it comes to developing them yet, but there is a lot of evidence out there supporting the notion that this field offers hope.
 
-### **Novel immunotherapies - promising, but…**
+### **Novel immunotherapies** — **promising, but…**
 
 First of all, our understanding of how cancer cells evade the immune system has tremendously improved. Thanks to that, we managed to develop several immunotherapies that produced remarkable responses in patients with some types of cancer. Still, nothing is perfect and finite when it comes to fighting cancer. Even though our understanding of the immune system has improved, we still don’t know it all. For example, many patients are not responsive to these novel immunotherapies and they even develop serious adverse effects. Could the cancer vaccine be a potential solution to that issue?
 
