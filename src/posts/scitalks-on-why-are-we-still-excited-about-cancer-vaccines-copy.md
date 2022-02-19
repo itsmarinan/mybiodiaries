@@ -10,7 +10,7 @@ decription: The last person we talked to said this would be ready action item, a
   what do you feel you would bring to the table if you were hired for this position
   bells and whistles.
 permalink: posts/{{ title | slug }}/index.html
-socialImage: master.png
+socialImage: hoho.png
 
 ---
 In the past year, I was applying to several universities across Europe for my master’s degree. I was doing quite extensive research and in the end, I applied to several programs in four countries - Switzerland, Finland, Germany, and England. Some of these applications went great, others did not, but nevertheless, I learned a lot about the process and now I want to share with you what I consider are the most important things to think consider when applying.
