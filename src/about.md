@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: about.njk
-name: Marina Nikolic
+name: 
 image: '/images/ezgif.com-gif-maker.webp'
 ---
 
