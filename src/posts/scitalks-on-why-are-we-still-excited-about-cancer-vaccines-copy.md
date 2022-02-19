@@ -27,10 +27,10 @@ It might sound obvious, but still, there are so many universities out there and 
 
 When deciding which universities to apply to, you start with a very broad picture and then end up with a small portion of it. In order to make a transition, make sure to write everything down (and I cannot stress this enough). In my case, I used a sheet with all the information about a great number of universities, and that number, in the end, has dropped to only six. Once, I saw a YouTuber with a huge sheet, having 15+ universities to which she intended to apply to. In my opinion, that is way too much. Each application takes a lot of time and energy, it may require preparing for an interview or even an entrance exam. Many universities charge quite a fee for applications (Switzerland, I am looking at you) and others have more complicated ways of applying (German uni-assist, I am talking about you). Considering you want to study for a master's right after you end your bachelor’s degree, you will need to apply throughout your last year and, having in mind all courses, exams, and writing thesis (and having a life!), you do not want to waste your energy. I think that applying to too many universities does not increase your chances of getting into one, but actually decreases them as you will hardly have enough time to devote to each university as much as you should. Therefore, you should play smart and make a shortlist, something like this:
 
-1. The one that is probably really hard to get into (usually a dream university)
-2. The one that is moderately hard to get into
-3. The other one that is also moderately hard to get into
-4. The one that seems pretty easy to get into, AKA safe option
+* The one that is probably really hard to get into (usually a dream university)
+* The one that is moderately hard to get into
+* The other one that is also moderately hard to get into
+* The one that seems pretty easy to get into, AKA safe option
 
 ## Applying with someone
 
