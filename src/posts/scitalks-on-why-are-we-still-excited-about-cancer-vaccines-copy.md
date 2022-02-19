@@ -1,7 +1,7 @@
 ---
 title: "#EduTalks \U0001F469‍\U0001F393 on How I decided which universities to apply
   to for my master's?"
-date: 2022-02-19T21:00:00Z
+date: 2022-02-19T21:00:00.000+00:00
 tags:
 - application
 - Europe
@@ -35,5 +35,7 @@ When deciding which universities to apply to, you start with a very broad pictur
 ## Applying with someone
 
 Although it might sound comforting to go with someone to pursue a master's abroad, the process of applying can actually be very dreadful. In my case, I was applying with my partner who was studying for a computer science degree. So, he was looking for a software engineering master's degree, while I was looking for life science degrees, therefore, two completely different fields! We struggled a lot to find perfectly matching universities for both of our wishes and there were a huge number of universities we had to drop because they did not fit one of us. So, if you are reading this and have a partner with whom you want to go abroad to study, I see you, I feel you and I can only say this - it will take a lot of energy and nerves, but it is feasible. My partner and I managed to find and get into a university that was a great match for both of us, although, in the end, we did not go there (which is another great story of the unexpected turn of the life events that I might cover some next time!)
+
+***
 
 In the end, applying to universities abroad for a master’s degree is HARD. You will spend hours online just researching stuff, let alone writing motivation letters and preparing for interviews. It is one of the hardest things I had to do in my life, but it was totally worth the pain. At the end of the day, I ended up studying in one of the greatest cities in the world. And I wish you the same! Go out there and ace those applications! 💪
