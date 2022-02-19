@@ -1,10 +1,11 @@
 ---
 title: "#EduTalks \U0001F469‍\U0001F393 on How I decided which universities to apply
   to for my master's?"
-date: 2022-02-14T20:20:00.000+00:00
+date: 2022-02-19T21:00:00Z
 tags:
-- cancer therapy
-- cancer vaccine
+- application
+- Europe
+- master studies
 decription: The last person we talked to said this would be ready action item, and
   what do you feel you would bring to the table if you were hired for this position
   bells and whistles.
